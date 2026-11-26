@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1QpdzxreHnHfZpKwtZ8be0m026HibIY8s
 """
 
-!pip install -q streamlit
+
 
 import streamlit as st
 import sqlite3
